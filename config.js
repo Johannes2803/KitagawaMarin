@@ -6,9 +6,9 @@ global.owner = [
   ['+62 896-3713-3848'],
   ['+84 34 979 0091'],
   ['+855 38 789 5949'],
-  ['+84 34 979 0091', 'Owner1', true]
-  ['+855 38 789 5949', 'Owner2', true
-  ['+62 896-3713-3848', 'Owner3', true]
+  ['+84 34 979 0091', 'Owner1', true],
+  ['+855 38 789 5949', 'Owner2', true,
+  ['+62 896-3713-3848', 'Owner3', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
