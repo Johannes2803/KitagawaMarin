@@ -4,7 +4,11 @@ import { watchFile, unwatchFile } from 'fs'
 
 global.owner = [
   ['+62 896-3713-3848'],
-  ['+62 896-3713-3848', 'Johannes', true]
+  ['+84 34 979 0091'],
+  ['+855 38 789 5949'],
+  ['+84 34 979 0091', 'Owner1', true]
+  ['+855 38 789 5949', 'Owner2', true
+  ['+62 896-3713-3848', 'Owner3', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -23,7 +27,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'cristian9407',
+  'https://api.xteam.xyz': 'apikeymu',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -38,6 +42,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
+// Watermark
+global.wm = '© Kitagawa Marin'
 
 // Sticker WM
 global.packname = ''
